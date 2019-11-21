@@ -9,4 +9,4 @@ The interviewer started the conversion with the his company's background and wha
 * What is Synchronization in java and explain Memory model semantic behind this?
 * What do you mean by Checked/Unchecked Exception in java? Why Scala has no concept of Checked Exception?
 
-This was basically a telephonic round (held around 45 minutes) and the conversation with the Interviewer was very healthy and friedly, but Freaknly speaking, I knew most of the answers but could not be able to explain them with confidence. 
+This was basically a telephonic round (held around 45 minutes) and the conversation with the Interviewer was very healthy and friedly, also the interviewer has shared some interesting under the hood concepts. Freaknly speaking, I knew most of the answers but could not be able to explain them with confidence. 
