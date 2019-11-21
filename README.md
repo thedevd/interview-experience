@@ -10,3 +10,4 @@ The interviewer started the conversion with the his company's background and wha
 * What is final in java and Val in scala?
 * How GC works in Java? What is small GC and full GC? What is young and old generations? What is eden and survivour space?
 * What is Synchronization in java and Memory model semantic behind this?
+* What do you mean by Checked/Unchecked Exception in java? Why Scala has no concept of Checked Exception?
