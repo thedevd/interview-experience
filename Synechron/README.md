@@ -32,7 +32,7 @@ I was invited for F2F interview at Nehru place, Delhi. There were total 3 rounds
     * Future and Promises in scala?
     * What is monad in scala?
     * Since scala has no concept of checked exception, so what are alternatives to inform the user of the API about the possible errors that they need to take care? (hint using sealed trait and it exhaustive pattern matching concept)
-    * What is Class level locking and object level locking in java?
+    * What is Class level locking and object level locking in java? ( [See This for reference](https://github.com/thedevd/techBlog/blob/master/javaexamples/src/main/java/com/thedevd/javaexamples/multithreading/ClassLevelLockVsObjectLevelLock.java) )
     * If we have synchronized in java then Why Locks? What do you mean by the word Reentrant in ReentrantLock?
     * What is semaphores in java?
     * What is lamba function in Java? What is functional interface? What is pure function?
