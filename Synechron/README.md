@@ -27,7 +27,7 @@ I was invited for F2F interview at Nehru place, Delhi. There were total 3 rounds
     * Have you ever come to in a situation where you needed to analyze the DAG in spark UI?
     * Dynamic Programming problem - We have a 3X3 matrix and find total how many ways are there to reach to ending cell of matrix starting from very first cell, the constraint is that you can only go right or bottom (hint- 0 ways for 1X1 metrix, 1 way from 1X2 matrix ..... and total 6 ways are there to reach ending cell starting from very first cell in 3X3 matrix)
     * What is partial functions in scala? Write a simple partial function.
-    * We have list of no as - 111, 143, 233, 350, 90, 410 and we want output like - 100, 11, 100, 43, 100, 100, 33, 100, 100, 100, 50, 90, 100, 100, 100, 100, 10. How to do this in scala? (Hint is use [tailRecursive function with pattern matching. Or it is also possible using fill() method of Seq collection](https://github.com/thedevd/techBlog/blob/master/scalaexamples/src/main/scala/com/thedevd/scalaexamples/codingproblems/FractionOf100Problem.scala))
+    * We have list of no as - 111, 143, 233, 350, 90, 410 and we want output like - 100, 11, 100, 43, 100, 100, 33, 100, 100, 100, 50, 90, 100, 100, 100, 100, 10. How to do this in scala? (Hint is use tailRecursive function with pattern matching. Or it is also possible using fill() method of Seq collection. ( [Reference](https://github.com/thedevd/techBlog/blob/master/scalaexamples/src/main/scala/com/thedevd/scalaexamples/codingproblems/FractionOf100Problem.scala) )
     * We have list - 1,2,3,4,5,6. Generate all the possible numbers using this list i.e. 111111, 111112, 111113..... so on. (hint is use of for-comprehension loop)
     * Future and Promises in scala?
     * What is monad in scala?
