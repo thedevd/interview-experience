@@ -15,7 +15,7 @@ I was invited for F2F interview at Nehru place, Delhi. There were total 3 rounds
    * We have an RDD, how the default no of partitions are decided? How to increase the paritions?
    * colesce() vs repartition()?
    * groupByKey() vs reduceByKey()?
-   * some more... not able to recall them :(
+   * What are Internal/External tables in Hive. What does LOCATION property mean at the time of creating table? Can Internal tables be stored outside of hive warehouse directory?
    
  2. **L2 round** - This was more of coding round.
     * We have a csv file having the states with its population along with country? How to load it and display the the country name with max no of population?
