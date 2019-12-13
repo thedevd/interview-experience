@@ -44,7 +44,7 @@ I was interviewed directly with client of Cognizant Technogoy Services. (There w
   ```
 
 ### Level 2
-* Tell me an achievement that you thing was worth to the project ?
+* Tell me an achievement (troubleshooting/optimization/feature enhacement) that you thing was worth to the project ?
 * We have two tables A (100 thousands row) and table B (100 milion rows), how do you join them considering optimized way. Further to that lets say both tables are very very huge, how do you join them on a column.
 * We have 20 nodes cluster, now you have to design a blocking kind of operation in such a way that only 10 nodes will be allowed to execute a particular operation. (Just like semaphore in java) 
 * More (not able to recall)
