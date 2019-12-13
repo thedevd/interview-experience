@@ -43,12 +43,12 @@ I was interviewed directly with client of Cognizant Technogoy Services. (There w
   C,20
   ```
 
-## Level 2
+### Level 2
 * We have two tables A (100 thousands row) and table B (100 milion rows), how do you join them considering optimized way. Further to that lets say both tables are very very huge, how do you join them on a column.
 * We have 20 nodes cluster, now you have to design a blocking kind of operation in such a way that only 10 nodes will be allowed to execute a particular operation. (Just like semaphore in java) 
 * More (not able to recall)
 
-## Level 3
+### Level 3
 * Explain each Object oriented concept with example?
 * We have a list {"cat", "dog","god"}, write an algorithm to group the words which are anagram for example here dog and god are anagrams, so produce output like this -
   ` [{cat}, {dog,god}]`
