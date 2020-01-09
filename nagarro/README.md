@@ -13,6 +13,9 @@ In this round they had mutliple choice question based on everything related to j
 **Round 4 - Technical** \
 This was initial technical round with mixed of technologies based question some of them are -
 * Project details.
+* How many ways to create string in java (Wanted to know about concept of string constant pool and intern() method).
+* Difference b/w HashMap and concurrentHashMap.
+* Difference b/w failfast and failsafe iterator.
 * Features of Java8. Explaine each one with thier advantage.
 * Spring vs Spring boot.
 * Singleton vs prototype. Annotation for this?
@@ -30,6 +33,7 @@ This was mostly focused on system design using microservice architecture.
   * Explain the complete flow of a request going through each and every microservice of the app.
   * What would you do if one of the microservice does not respond when serving the request. (he wanted to know how fault tolerance is achieved)
   * How transactions will be taken care in this design (He wanted to know about saga design pattern).
+  * Type of distributed transaction.
 * HashMap related tricky questions like what if we have overriden equals() but not hashcode() so what would happend if try to get from map using object as key.
 * How the redis cluster works? Is it master-slave or master-master like cassandra?
 * Give example of builtin Functianal interfaces in java.
@@ -47,7 +51,19 @@ This was majorly on Unix, docker, sql and little bit on hibernate too.
   * Tell some commands to work with any file in vi edition.
   * What are permission and how to set it (Use of chmod command with combination of 4(read) + 2(write) + 1(execute) )
   * Do you know how to write shell script to look for a directory for the log files and send email after each an hour with information of the log file name)
-* How to setup a docker so that I should automatically start after any crash.
+* How to setup a docker so that It should automatically start after any crash.
 * How to list the configuration of a container which were used at the time of starting the container at the beginning.
 * Write a simple class to represent Entity Employee using Hibernate annotations.
 * Sql query to find the manager id, manager name and no of employees working for them (Considering table has empid, empname, mgrid).
+
+**Some extra questions, which may be asked by Nagarro for java+springboot+microservice profile**
+* Spring AOP
+* Tree and Graphs (DFS vs BFS)
+* Optimistic vs pessimistic locking in database system.
+* ACID property in transaction.
+* Isolation levels in transaction and what is Dirty read, non-repeatable read and phantom read). How this is implemented in Spring boot. (wanted to know about @Transactional annotation)
+* Memcache vs redis.
+* Configuration management problem in microservice architecture and how to solve this in spring cloud.
+* Spring security.
+* Oauth2.
+* 
