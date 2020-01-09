@@ -55,6 +55,7 @@ This was majorly on Unix, docker, sql and little bit on hibernate too.
 * How to list the configuration of a container which were used at the time of starting the container at the beginning.
 * Write a simple class to represent Entity Employee using Hibernate annotations.
 * Sql query to find the manager id, manager name and no of employees working for them (Considering table has empid, empname, mgrid).
+* Types of index in mysql and Explain clustered-index with example.
 
 **Some extra questions, which may be asked by Nagarro for java+springboot+microservice profile**
 * Spring AOP
