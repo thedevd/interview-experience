@@ -66,4 +66,3 @@ This was majorly on Unix, docker, sql and little bit on hibernate too.
 * Configuration management problem in microservice architecture and how to solve this in spring cloud.
 * Spring security.
 * Oauth2.
-* 
