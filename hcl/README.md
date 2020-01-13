@@ -28,4 +28,4 @@ This round was taken by one of the General Manager of Engineering R&D Services (
 * Can we use spark for real time, and if not then what technology we can use? (I explained micro-batch processing of spark and then told nowdays we have kafka stream for real-time).
 * Why looking for change specially in HCL?
 * Salary expectation?
-* What do you think of your retension period in HCL?
+* What do you think of your retention period in HCL?
