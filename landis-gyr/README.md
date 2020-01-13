@@ -9,5 +9,5 @@ It was a paper based mutiple choice question based on core java/hibernate/spring
 * Questions on project experience.
 * Design a algorithm to remove other duplicate characters (considering case-sensitivity) from a String. (For ex if we have String input as - `Hi I am in Landis Gyr interview`, here we already encountered character `i` in word Hi so subsequent `i` will be removed.  The output should be `Hi I am n Lds Gyr tevw`.
 * How to integrate Spring and hibernate in your application. (I was bit confused what did he mean as I said to him that I have configured them using Spring boot, but he was not convinced).
-* Write a ManyToMany relationship in Hibernate and what is the logic of intermediate table, how this is managed in hibernate? Will you use which type of bag collection - List or Set and why?
+* Write a ManyToMany relationship in Hibernate and what is the logic of intermediate table, how this is managed in hibernate? you use which type of bag collection - List or Set and why?
 * What is unidirectional and bidirectional relationship in hiberante, how do you create them in hibernate?
