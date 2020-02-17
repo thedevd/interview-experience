@@ -1,5 +1,5 @@
 ## Ciena India Pvt. Ltd - (Role: Enterprise Software Engineer | Location: Pune | Date: 21 Jan 2020)
-The whole interview process at Ciena took almost a month. During this time I went through 5 rounds (3 were from USA and 1 one was in-person interivew in Pune office and last one HR).
+The whole interview process at Ciena took almost a month. During this time I went through 5 rounds (3 were from USA and one was in-person interivew in Pune office and last one HR).
 
 #### Level 1 (Technical + Managerial)
 * This round was taken by two persons, both were from Ottawa, Canada. It happend in the EST timezone through Zoom video conferencing. 
