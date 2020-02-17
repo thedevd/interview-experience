@@ -1,5 +1,5 @@
 # Interview-experience
-In this, I have tried to club all the questions that I have been asked during a sofware engineer's interviews. I have put them based on company name and the role.
+In this, I have tried to club all the questions that I have been asked during a sofware engineer's interviews. I have arranged them based on company name and the role.
 
 * [Bayestree - SDE in Hyderabad | Nov 2019](https://github.com/thedevd/interview-experience/tree/master/bayestree)
 * [Synechron - Java/Spark Developer in Pune | Nov 2019](https://github.com/thedevd/interview-experience/tree/master/Synechron) - Offered
