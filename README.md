@@ -9,3 +9,4 @@ In this, I have tried to club all the questions that I have been asked during a 
 * [Landis-Gyr - Java Lead in Noida | Jan 2020](https://github.com/thedevd/interview-experience/tree/master/landis-gyr)
 * [HCL-ERS - BigData in Noida | Jan 2020](https://github.com/thedevd/interview-experience/tree/master/hcl)
 * [Ciena - Enterprise Software Engineer in Pune | Jan 2020](https://github.com/thedevd/interview-experience/tree/master/ciena)
+* [NIIT Technologies - Java/Microservices Developer in Greater Noida | Jan 2020](https://github.com/thedevd/interview-experience/tree/master/niit)
